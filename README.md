@@ -34,3 +34,11 @@ docker ps
 
 ![image](https://github.com/aannddrree/api-test-service/assets/8753843/f1b2224d-a03b-43dd-81bc-f68b6b4e79c8)
 Fonte:https://salithachathuranga94.medium.com/deploy-rest-api-using-spring-boot-mongodb-and-docker-e7ab620b24d6
+
+
+## Testando a aplicação:
+
+Acessar: 
+* http://localhost:8080/swagger-ui.html#/
+
+![image](https://github.com/aannddrree/api-test-service/assets/8753843/77ed7112-87bb-4635-a637-561b3bc69934)
