@@ -1,4 +1,4 @@
-# API JAVA SprintBoot + MongoDB in Container (DOCKER)
+# API JAVA SpringBoot + MongoDB in Container (DOCKER)
 
 Para subir a aplicação é necessário:
 
